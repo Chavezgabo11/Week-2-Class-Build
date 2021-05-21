@@ -1,13 +1,13 @@
 # WProject Name
 Week 2 class Build 
 
-#Project Description
+# Project Description
 Week 2 class build for MMED-1054, walking through the creation and initial working a Github repository
 
 ## Installation
 Copy repository from Github to prefer project location.
 
-#MIT license
+# MIT license
 
 Copyright 2021 Gabriel Chavez
 
